@@ -8,12 +8,12 @@ header {
   text-align: center;
 }
 
-section {
-  text-align: center;
-}
-
 nav a {
   padding-left: 10px;
   padding-right: 10px;
   background-color: #C39BD3;
+}
+
+section #featured-property{
+  text-align: center;
 }
