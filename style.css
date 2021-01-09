@@ -9,5 +9,6 @@ header {
 }
 
 #featured-property {
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;;
 }
