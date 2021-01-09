@@ -20,6 +20,11 @@ img {
   margin-right: auto;
 }
 
+figcaption {
+  text-align: center;
+  font-size: 10px;
+}
+
 section #featured-property{
   text-align: center;
 }
