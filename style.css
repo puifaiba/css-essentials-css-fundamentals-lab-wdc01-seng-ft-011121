@@ -36,4 +36,5 @@ figcaption {
   float: left;
   background-color: rgb(118, 68, 138, .7)
   text-align: center;
+  width: 25%;
 }
